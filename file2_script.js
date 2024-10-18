@@ -1,11 +1,11 @@
 const quizData = [
     {
-        question: "Which language runs in a web browser?",
+        question: "Which is not a object oriented programming language",
         a: "Java",
         b: "C",
         c: "Python",
-        d: "JavaScript",
-        correct: "d",
+        d: "c++",
+        correct: "b",
     },
     {
         question: "What does CSS stand for?",
